@@ -1,0 +1,15 @@
+Script started on Fri 07 Feb 2020 09:40:51 PM PST
+[perazav@athena:21]> gcc lab1.c
+[perazav@athena:22]> a.out
+
+Lab 1.
+
+Hello World.
+Hi, Victor Peraza.
+
+Everything negative - pressure, challenges - is all an opportunity for me to rise. - Kobe Bryant, R.I.P.
+
+[perazav@athena:23]> exit
+exit
+
+Script done on Fri 07 Feb 2020 09:41:31 PM PST

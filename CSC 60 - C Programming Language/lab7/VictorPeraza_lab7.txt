@@ -1,0 +1,25 @@
+Script started on Wed 08 Apr 2020 08:53:03 PM PDT
+[perazav@sp2:21]> cat lab7.out[19G[7Pa.out[19Ggcc lab7.c[19Gman[Kgcc lab7.c
+[perazav@sp2:22]> gcc lab7.c[19Gcat lab7.out[19G[7Pa.out
+[perazav@sp2:23]> a.out[19Ggcc lab7.c[19Gcat lab7.out[19Gman[Kcat lab7.out
+
+Victor Peraza, Lab 7 output. 
+
+Track Results
+
+Name               Try 1   Try 2   Try 3   Try 4  Best throw  Deviation
+----------------   -----   -----   -----   -----  ---------   ---------
+Dani Potato        67.37   66.60   71.70   67.27     71.70       0.00   
+Jane Smith         50.51   62.23   69.25   67.54     69.25       2.45   
+Kelsey Tan         61.97   67.04   61.17   67.95     67.95       3.75   
+Christine Forest   68.17   59.83   69.12   68.19     69.12       2.58   
+
+
+Best Throw Average  =  69.50 meters 
+
+Winning Throw       =  71.70 meters
+
+[perazav@sp2:24]> exit
+exit
+
+Script done on Wed 08 Apr 2020 08:53:24 PM PDT

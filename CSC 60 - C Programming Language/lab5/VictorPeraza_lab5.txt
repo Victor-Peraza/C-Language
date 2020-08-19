@@ -1,0 +1,29 @@
+Script started on Fri 20 Mar 2020 11:40:51 PM PDT
+[perazav@athena:21]> lab5maketouch lab5.h[22Gvim get_range_count.c[22Gtouch lab5.h[K
+[perazav@athena:22]> make
+gcc -c lab5.c
+gcc -c get_range_count.c
+gcc lab5.o get_range_count.o -o range -lm
+[perazav@athena:23]> lab5
+
+
+Victor Peraza.  Lab 5. 
+
+
+File lab5a.dat:  
+There are 0 values in the range of 90 through 99
+out of a total of 29 values.
+
+
+
+Victor Peraza.  Lab 5. 
+
+
+File lab5b.dat:  
+There are 0 values in the range of 90 through 99
+out of a total of 29 values.
+
+[perazav@athena:24]> exit
+exit
+
+Script done on Fri 20 Mar 2020 11:41:16 PM PDT

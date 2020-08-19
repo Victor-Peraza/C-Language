@@ -1,0 +1,25 @@
+Script started on Fri 21 Feb 2020 10:38:47 PM PST
+[perazav@sp2:15]> vim lab3[19Ga.out[K[19Ggcc lab3.c
+[perazav@sp2:16]> gcc lab3.c[19Gvim lab3[K[19Ga.out[K[19Gcd lab3[19Ga.out[K
+
+Victor Peraza. Lab 3.
+
+Joe went to the store.
+
+My friend is 23 years old.
+
+"So many books, so little time."
+- Frank Zappa
+
+The average = 246.2
+
+The average = 246.237
+
+The average = 2.46e+02
+
+The average = 246.236890
+
+[perazav@sp2:17]> exit
+exit
+
+Script done on Fri 21 Feb 2020 10:39:25 PM PST
